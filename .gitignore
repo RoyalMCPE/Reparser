@@ -1,0 +1,5 @@
+world/*
+resources/*
+players/*
+config.toml
+main.go
